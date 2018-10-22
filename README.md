@@ -1,2 +1,2 @@
 # macrestore
-Tool for reconfiguring your Mac after a fresh install. Including apps, keychain, I could and dev environments.
+Tool for configuring your Mac after a fresh install. Including apps, keychain, local and dev environments.
